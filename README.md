@@ -29,3 +29,7 @@ Under GNU GPLv3 https://github.com/OneLoneCoder/videos/blob/master/LICENSE
 * Store cube in PROGMEM to provide enough memory for u8g2 to run with full frame buffer (best speed)
 * Rotation speed static
 * Show FPS
+
+Sketch uses 12740 bytes (39%) of program storage space. Maximum is 32256 bytes.
+Global variables use 1777 bytes (86%) of dynamic memory, leaving 271 bytes for local variables. Maximum is 2048 bytes.
+Low memory available, stability problems may occur.
